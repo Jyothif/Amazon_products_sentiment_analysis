@@ -1,5 +1,6 @@
 # Amazon_products_sentiment_analysis : Project_OverView
-* This Project consists of **34000 consumer reviews** of Amazon  products I have been implemented  the multinomialNB, Bernouli and Logistic regression Algorithms for this dataset the Logistic Regressiona and MultinomialNB is of same accuracy.
+
+* This Project consists of **34000 consumer reviews** of Amazon  products I have been implemented  the multinomialNB, Bernouli and Logistic regression Algorithms for this dataset and also found some interesting accuracies of the algorithms
 
 # Scraping of Data
 
@@ -27,11 +28,11 @@
 ![](https://github.com/Jyothif/Amazon_products_sentiment_analysis/blob/master/images/amarev4.PNG)
 
 
-* Model Accuracy 
+* **Model Accuracy**
   * Naive Bayes : 58.9%
   * Multinomial : 93.2%
   * Bernouli    : 92.0%
-  * LogisticRegression : 93.7%
+  * LogisticRegression : 93.7% 
  
 # Productionization
   
