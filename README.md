@@ -2,6 +2,9 @@
 
 * This Project consists of **34000 consumer reviews** of Amazon  products I have been implemented  the multinomialNB, Bernouli and Logistic regression Algorithms for this dataset and also found some interesting accuracies of the algorithms
 
+# Resources and requirements
+
+
 # Scraping of Data
 
 * I found the data in Kaggle.com at link: https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products
